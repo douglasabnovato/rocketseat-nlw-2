@@ -1,4 +1,7 @@
+
 :root {
+
+    /* variáveis do css */
     --color-background: #F0F0F7;
     --color-primary-lighter: #9871F5;
     --color-primary-light: #916BEA;
@@ -18,9 +21,21 @@
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
     --color-small-info: #C1BCCC;
+
+    /* tamanho da fonte */
     font-size: 60%; 
 }
 
 body {
-    background-color: #8257e5;
+    background-color: var(--color-background);
+}
+/*
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}*/
+
+#container {
+    border: 1px solid red;
 }
