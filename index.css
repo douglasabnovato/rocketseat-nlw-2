@@ -1,4 +1,3 @@
-
 :root {
     /* variáveis do css */
     --color-background: #F0F0F7;
@@ -22,16 +21,10 @@
     --color-small-info: #C1BCCC;
     /* tamanho da fonte */
     font-size: 60%; 
-}
-
-body {
-    background-color: var(--color-background);
 } 
 
-#container {
-    border: 1px solid red;/* border : espessura, tipo do traço, cor */
-    padding: 10px 40px 60px 2px; /* preenchimento: top, right, bottom, left */
-    margin: 40px;/* margem: top, right, bottom, left */
-    width: 300px;
-    height: 300px;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
