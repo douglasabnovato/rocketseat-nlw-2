@@ -6,6 +6,12 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 - [ ] v1.0.0 - Acelerando sua Evolução - 03/08
 
+
+- [ ] 0. Pilares do método do aprendizado
+- Prática
+- Foco
+- Grupo
+
 - [ ] 1. Front-End ( [Notion](https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2) )
 - [ ] 1.1. Programação Web
 - [ ] 1.1.1. O que é Programação
