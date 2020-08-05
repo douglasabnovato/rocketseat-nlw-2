@@ -28,3 +28,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+html, body {
+    height: 100vh;
+}
+
+body {
+    background: var(--color-background);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1, span, a {
+    width: 105px;
+}
+
+body,
+input,
+button,
+textarea {
+    font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
+}
