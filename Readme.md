@@ -76,6 +76,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 4.3.6. Repetições
 
 - [ ] Olhando as Oportunidades - 04/08
+
+
+
 - [ ] A escolha da stack - 05/08
 - [ ] Até dois anos em dois meses - 06/08
 - [ ] A milha extra - 07/08
