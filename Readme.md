@@ -4,7 +4,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 ### Desafios da NLW#2
 
-- [ ] Acelerando sua Evolução - 03/08
+- [ ] v1.0.0 - Acelerando sua Evolução - 03/08
 
 - [ ] 1. Front-End ( [Notion](https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2) )
 - [ ] 1.1. Programação Web
@@ -75,15 +75,23 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 4.3.5. Condições
 - [ ] 4.3.6. Repetições
 
-- [ ] Olhando as Oportunidades - 04/08
+- [ ] v2.0.0 - Olhando as Oportunidades - 04/08
 
 
 
-- [ ] A escolha da stack - 05/08
-- [ ] Até dois anos em dois meses - 06/08
-- [ ] A milha extra - 07/08
-- [ ] Desafio
-- [ ] Encerramento
+- [ ] v3.0.0 - A escolha da stack - 05/08
+
+
+- [ ] v4.0.0 - Até dois anos em dois meses - 06/08
+
+
+- [ ] v5.0.0 - A milha extra - 07/08
+
+
+- [ ] v6.0.0 - Desafio
+
+
+- [ ] v7.0.0 - Encerramento
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Rocketseat - Next Level Week 2](https://nextlevelweek.com/inscricao/2)
