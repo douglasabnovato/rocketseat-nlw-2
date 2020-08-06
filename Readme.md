@@ -7,7 +7,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 ### Desafios da NLW#2
 
-- [ ] v1.0.0 - Acelerando sua Evolução - 03/08
+- [x] v1.0.0 - Acelerando sua Evolução - 03/08
 
 - [x] 0. Pilares do método do aprendizado
 - Prática: o evento reune um conteúdo com clareza e atividades práticas, codando.
@@ -87,8 +87,10 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.3.6. Repetições
 
 - [ ] v2.0.0 - Olhando as Oportunidades - 04/08
-- [x] A estilização da aplicação "Mobile First."
-- [ ] A estilização da aplicação "Desktop".
+- [x] 1. A Home da Landing Page
+- [x] 1.1. A estilização da aplicação "Mobile First."
+- [x] 1.2. A estilização da aplicação "Desktop".
+- [x] 1.3. A estilização da aplicação "Tablet".
 
 - [ ] v3.0.0 - A escolha da stack - 05/08
 
