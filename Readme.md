@@ -87,7 +87,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.3.6. Repetições
 
 - [ ] v2.0.0 - Olhando as Oportunidades - 04/08
-- [x] 1. A Home da Landing Page
+- [x] 1. A Home da Landing Page - css e html
 - [x] 1.1. A estilização da aplicação "Mobile First."
 - [x] 1.2. A estilização da aplicação "Desktop".
 - [x] 1.3. A estilização da aplicação "Tablet".
