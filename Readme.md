@@ -6,11 +6,10 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 - [ ] v1.0.0 - Acelerando sua Evolução - 03/08
 
-
 - [ ] 0. Pilares do método do aprendizado
-- Prática
-- Foco
-- Grupo
+- Prática: o evento reune um conteúdo com clareza e atividades práticas, codando.
+- Foco: Concentrar os esforços de estudos na mesma tecnologia, fazendo com que vamos ao próximo nível, ao invés de sair atirando para todos os lados, atrás da mais nova linguagem ou framework.
+- Grupo: interação na comunidade com outros programadores mais experientes para receber ajuda. E também, com outros programadores que você pode ajudar. Completando o ciclo perfeito de aprendizado.
 
 - [ ] 1. Front-End ( [Notion](https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2) )
 - [ ] 1.1. Programação Web
@@ -36,8 +35,11 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 1.3.3.2. CSS
 - [ ] 1.3.3.3. Javascript
 - [ ] 1.3.4. Tecnologias do Back-End
+
 - [ ] 2. O design web construído no Figma da [aplicação Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
+
 - [ ] 3. Os arquivos do projeto em desenvolvimento
+
 - [ ] 4. Introdução às Tecnologias
 - [ ] 4.1. HTML
 - [ ] 4.1.1. TAGs
