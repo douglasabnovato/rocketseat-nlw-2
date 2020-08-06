@@ -2,6 +2,9 @@
 
 Um evento de programação organizado pelo Rocketseat para construir uma Page Landing seguindo um design apresentado no Figma.
 
+- Proposta do design da aplicação.
+![Proffy](/images/proposta-do-design.jpg)
+
 ### Desafios da NLW#2
 
 - [ ] v1.0.0 - Acelerando sua Evolução - 03/08
@@ -84,7 +87,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.3.6. Repetições
 
 - [ ] v2.0.0 - Olhando as Oportunidades - 04/08
-- 
+- [x] A estilização da aplicação "Mobile First."
+- [ ] A estilização da aplicação "Desktop".
 
 - [ ] v3.0.0 - A escolha da stack - 05/08
 
