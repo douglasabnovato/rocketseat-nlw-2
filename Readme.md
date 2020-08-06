@@ -84,8 +84,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.3.6. Repetições
 
 - [ ] v2.0.0 - Olhando as Oportunidades - 04/08
-
-
+- 
 
 - [ ] v3.0.0 - A escolha da stack - 05/08
 
