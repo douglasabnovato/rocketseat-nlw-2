@@ -3,7 +3,7 @@
 Um evento de programação organizado pelo Rocketseat para construir uma Page Landing seguindo um design apresentado no Figma.
 
 - Proposta do design da aplicação.
-![Proffy](/images/proposta-do-design.jpg)
+![Proffy](images/proposta-do-design.jpg)
 
 ### Desafios da NLW#2
 
