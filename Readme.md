@@ -94,7 +94,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.1. A estilização da aplicação "Mobile First."
 - [x] 1.2. A estilização da aplicação "Desktop".
 - [x] 1.3. A estilização da aplicação "Tablet".
-- [x] 2. A Proffy da Landing Page - css e html
+- [ ] 2. A Proffy da Landing Page - css e html
+- [ ] 2.1. Entender os elementos que estão no design 
 
 - [ ] v3.0.0 - A escolha da stack - 05/08
 
