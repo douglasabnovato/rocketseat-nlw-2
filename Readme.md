@@ -114,4 +114,4 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] v7.0.0 - Encerramento
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
-. De [Rocketseat - Next Level Week 2](https://nextlevelweek.com/inscricao/2)
+. De [Rocketseat - Next Level Week 2 - Discovery](https://nextlevelweek.com/inscricao/2)
