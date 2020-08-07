@@ -2,10 +2,10 @@
 
 Um evento de programação organizado pelo Rocketseat para construir uma Page Landing seguindo um design apresentado no Figma.
 
-- Proposta do design: Home
+- Proposta do design: Home<br/>
 ![Proffy](images/proposta-do-design-1.jpg)
 
-- Proposta do design: Proffy
+- Proposta do design: Proffy<br/>
 ![Proffy](images/proposta-do-design-2.jpg)
 
 ### Desafios da NLW#2
@@ -95,7 +95,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.2. A estilização da aplicação "Desktop".
 - [x] 1.3. A estilização da aplicação "Tablet".
 - [x] 2. A Proffy da Landing Page - css e html
-- [x] 2.1. Entender os elementos que estão no design 
+- [x] 2.1. Entender os elementos que estão no design
+- [x] 2.2. Colocar os elementos da página
+- [ ] 2.3. Estilizar a página 
 
 - [ ] v3.0.0 - A escolha da stack - 05/08
 
