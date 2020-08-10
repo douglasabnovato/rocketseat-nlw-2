@@ -8,6 +8,12 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - Proposta do design: Proffy<br/>
 ![Proffy](images/proposta-do-design-2.jpg)
 
+- Proposta do design: Informações do Prof<br/>
+![Proffy](images/proposta-do-design-3.jpg)
+
+- Proposta do design: Professores Disponíveis<br/>
+![Proffy](images/proposta-do-design-4.jpg)
+
 ### Desafios da NLW#2
 
 - [x] v1.0.0 - Acelerando sua Evolução - 03/08
@@ -89,7 +95,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.3.5. Condições
 - [x] 4.3.6. Repetições
 
-- [ ] v2.0.0 - Olhando as Oportunidades - 04/08
+- [x] v2.0.0 - Olhando as Oportunidades - 04/08
 - [x] 1. A Home da Landing Page - css e html
 - [x] 1.1. A estilização da aplicação "Mobile First."
 - [x] 1.2. A estilização da aplicação "Desktop".
