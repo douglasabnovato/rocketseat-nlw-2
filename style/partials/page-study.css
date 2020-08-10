@@ -93,6 +93,10 @@
     font: 1.6rem Archivo;
 }
 
+.input-block{
+    position: relative;
+}
+
 .input-block:focus-within::after {
     content: "";
     width: calc(100% - 3.2rem);
