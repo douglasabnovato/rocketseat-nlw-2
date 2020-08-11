@@ -68,10 +68,13 @@
     font: 700 1.6rem Archivo;
     display: flex;
     align-items: center;
-    justify-content: center;
-    text-decoration: none;
+    justify-content: center; 
     transition: background 0.2s;
     margin-top: 3rem;
+}
+
+#search-teachers button:hover {
+    background-color: var(--color-secondary-dark);
 }
 
 .select-block label,
