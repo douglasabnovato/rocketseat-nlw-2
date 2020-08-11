@@ -104,7 +104,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2.1. Entender os elementos que estão no design
 - [x] 2.2. Colocar os elementos da página
 - [x] 2.3. Estilizar os elementos da página 
-- [ ] 2.4. Proposta do design: Proffy aplicando First Mobile
+- [x] 2.4. Proposta do design: Proffy aplicando First Mobile
 
 - [ ] v3.0.0 - A escolha da stack - 05/08
 
