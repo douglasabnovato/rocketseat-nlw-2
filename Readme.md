@@ -108,7 +108,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2.5. Corrigir layout - page proffy - barra de pesquisa 
 
 - [ ] v3.0.0 - A escolha da stack - 05/08
-
+- [ ] 3.1. Inserir o ícone no topo da aba do navegador
 
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08
 
