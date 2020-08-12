@@ -112,7 +112,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2. Refatorar o código da page-study e da page-header : criado o `header.css`
 - [ ] 3. Construir a page-give-classes (dar aulas)
 - [x] 3.1. Estrutura html para construir o layout.  
-- [ ] 3.2. Formulário dos dados do professor
+- [x] 3.2. HTML do formulário - Seus Dados
+- [ ] 3.3. CSS do formulário - Seus Dados
 
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08
 
