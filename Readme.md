@@ -113,7 +113,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 3. Construir a page-give-classes (dar aulas)
 - [x] 3.1. Estrutura html para construir o layout.  
 - [x] 3.2. HTML do formulário - Seus Dados
-- [ ] 3.3. CSS do formulário - Seus Dados
+- [x] 3.3. CSS do formulário - Seus Dados 
+- [ ] 3.4. HTML do formulário - 
+- [ ] 3.5. CSS do formulário - 
 
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08
 
