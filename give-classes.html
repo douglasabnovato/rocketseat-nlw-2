@@ -91,7 +91,45 @@
 
                 </fieldset>
 
-            </form>            
+                <fieldset>
+                    <legend>Horários Disponíveis</legend>
+                    <button id="add-time">+ Novo Horário</button>
+                </fieldset>
+
+                <div class="schedule-item">
+
+                    <div class="select-block">
+                        <label for="weekday">Dia da Semana</label>
+                        <select name="weekday[]" required>
+                            <option value="" disabled="" hidden="">Selecione uma opção</option>
+                            <option value="0">Domingo</option>
+                            <option value="1">Segunda-Feira</option>
+                            <option value="2">Terça-Feira</option>
+                            <option value="3">Quarta-Feira</option>
+                            <option value="4">Quinta-Feira Física</option>
+                            <option value="5">Sexta-Feira</option>
+                            <option value="6">Sábado</option>
+                        </select>
+                    </div>
+
+                    <div class="input-block">
+                        <label for="time_from">Das</label>
+                        <input type="time" name="time_from[]" required>
+                    </div>
+
+                    <div class="input-block">
+                        <label for="time_to">Até</label>
+                        <input type="time" name="time_to[]" required>
+                    </div>
+                </div>
+            </form> 
+            
+            <footer>
+                <p>
+                    <img src="/images/icons/warning.svg" alt="Aviso importante">
+                </p>
+                <button type="submit" form="create-class">Salvar Cadastro</button>
+            </footer>
         </main>
 
     </div>
