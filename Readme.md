@@ -123,7 +123,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 3.6. HTML do formulário - Horários Disponíveis
 - [ ] 3.7. CSS do formulário - Horários Disponíveis
 - [x] 3.7.1. Mobile First
-- [ ] 3.7.2. Desktop
+- [x] 3.7.2. Desktop 
+- [ ] 4. Construir o Javascript da Aplicação
 
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08
 
