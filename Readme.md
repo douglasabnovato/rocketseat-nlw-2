@@ -110,7 +110,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] v3.0.0 - A escolha da stack - 05/08
 - [x] 1. Inserir o ícone no topo da aba do navegador
 - [x] 2. Refatorar o código da page-study e da page-header : criado o `header.css`
-- [ ] 3. Construir a page-give-classes (dar aulas)
+- [x] 3. Construir a page-give-classes (dar aulas)
 - [x] 3.1. Estrutura html para construir o layout.  
 - [x] 3.2. HTML do formulário - Seus Dados
 - [x] 3.3. CSS do formulário - Seus Dados 
@@ -121,7 +121,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 3.5.1. Mobile First
 - [x] 3.5.2. Desktop
 - [x] 3.6. HTML do formulário - Horários Disponíveis
-- [ ] 3.7. CSS do formulário - Horários Disponíveis
+- [x] 3.7. CSS do formulário - Horários Disponíveis
 - [x] 3.7.1. Mobile First
 - [x] 3.7.2. Desktop 
 - [ ] 4. Construir o Javascript da Aplicação
