@@ -114,10 +114,16 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 3.1. Estrutura html para construir o layout.  
 - [x] 3.2. HTML do formulário - Seus Dados
 - [x] 3.3. CSS do formulário - Seus Dados 
+- [x] 3.3.1. Mobile First
+- [x] 3.3.2. Desktop
 - [x] 3.4. HTML do formulário - Sobre a Aula
 - [x] 3.5. CSS do formulário - Sobre a Aula
-- [ ] 3.6. HTML do formulário - Horários Disponíveis
+- [x] 3.5.1. Mobile First
+- [x] 3.5.2. Desktop
+- [x] 3.6. HTML do formulário - Horários Disponíveis
 - [ ] 3.7. CSS do formulário - Horários Disponíveis
+- [x] 3.7.1. Mobile First
+- [ ] 3.7.2. Desktop
 
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08
 
