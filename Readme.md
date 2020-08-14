@@ -128,20 +128,20 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 3.7. CSS do formulário - Horários Disponíveis
 - [x] 3.7.1. Mobile First
 - [x] 3.7.2. Desktop 
-- [ ] 4. Construir o Javascript da Aplicação
-- [ ] 4.1. Procurar o botão
-- [ ] 4.2. Quando clicar no botão
-- [ ] 4.3. Executar uma ação
-- [ ] 4.3.1. Duplicar os campos
-- [ ] 4.3.2. Colocar na página
+- [x] 4. Construir o Javascript da Aplicação
+- [x] 4.1. Procurar o botão
+- [x] 4.2. Quando clicar no botão
+- [x] 4.3. Executar uma ação
+- [x] 4.3.1. Duplicar os campos
+- [x] 4.3.2. Colocar na página 
 
 ---- 
 
-- [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34
+- [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34 - meta 01:30:00 
 
 ---- 
 
-- [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41
+- [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41 - meta 02:00:00
 
 ---- 
 
