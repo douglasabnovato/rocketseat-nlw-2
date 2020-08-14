@@ -14,7 +14,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - Proposta do design: Professores Disponíveis<br/>
 ![Proffy](images/proposta-do-design-4.jpg)
 
-### Desafios da NLW#2
+## Desafios da NLW#2
 
 - [x] v1.0.0 - Acelerando sua Evolução - 03/08
 
@@ -157,6 +157,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 - [ ] v7.0.0 - Encerramento
 - [ ] 1. Live no Youtube - Encerramento NLW #2
+- [ ] 2. Método de Aprendizado: Prática, Foco, Grupo 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Rocketseat - Next Level Week 2 - Discovery](https://nextlevelweek.com/inscricao/2)
