@@ -145,6 +145,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 3. Escrever um artigo no Medium com as tecnologias, o desafio, o aprendizado, as dificuldades desse projeto
 - [ ] 4. Publicar no Linkedin
 
+---- 
+
 - [ ] v7.0.0 - Encerramento
 - [ ] 1. Live no Youtube - Encerramento NLW #2
 
