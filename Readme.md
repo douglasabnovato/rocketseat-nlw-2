@@ -107,7 +107,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2.4. Proposta do design: Proffy aplicando First Mobile
 - [x] 2.5. Corrigir layout - page proffy - barra de pesquisa 
 
-- [ ] v3.0.0 - A escolha da stack - 05/08
+- [ ] v3.0.0 - A escolha da stack - 05/08 - 01:38:26
 - [x] 1. Inserir o ícone no topo da aba do navegador
 - [x] 2. Refatorar o código da page-study e da page-header : criado o `header.css`
 - [x] 3. Construir a page-give-classes (dar aulas)
@@ -131,16 +131,22 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 4.3.1. Duplicar os campos
 - [ ] 4.3.2. Colocar na página
 
-- [ ] v4.0.0 - Até dois anos em dois meses - 06/08
+- [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34
 
 
-- [ ] v5.0.0 - A milha extra - 07/08
+- [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41
 
 
-- [ ] v6.0.0 - Desafio
-
+- [ ] v6.0.0 - Desafio 
+- [ ] 1. Revisar o código
+- [ ] 1.2. Revisar o comentários
+- [ ] 1.3. Revisar o Readme.md
+- [ ] 2. Fazer o deploy da Aplicação
+- [ ] 3. Escrever um artigo no Medium com as tecnologias, o desafio, o aprendizado, as dificuldades desse projeto
+- [ ] 4. Publicar no Linkedin
 
 - [ ] v7.0.0 - Encerramento
+- [ ] 1. Live no Youtube - Encerramento NLW #2
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Rocketseat - Next Level Week 2 - Discovery](https://nextlevelweek.com/inscricao/2)
