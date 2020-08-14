@@ -139,7 +139,15 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34 - meta 01:30:00  
 - [ ] 1. Backe-End
-
+- [x] 1.1. Criar o servidor
+- [x] 1.1.1. Nodejs: v12.18.3 (LTS) 
+- [x] 1.1.2. Estrutura de pastas: public, src
+- [x] 1.1.3. `npm init -y`: gerenciamento de pacotes (dependências), cria o arquivo `package.json`
+- [x] 1.1.4. Express - Biblioteca: `npm install express` 
+- [x] 1.1.5. Servidor do projeto: `server.js`
+- [x] 1.1.6. Comando `node src/server.js` roda nosso servidor na porta `http://127.0.0.1:5500/`
+- [x] 1.1.7. Nodemon: a cada alteração, restart o servidor automaticamente `npm install nodemon -D`
+- [ ] 1.1.8. Configurar o Nodemon  
 
 ---- 
 
