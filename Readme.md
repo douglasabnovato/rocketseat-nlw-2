@@ -111,7 +111,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 ---- 
 
-- [ ] v3.0.0 - A escolha da stack - 05/08 - 01:38:26
+- [x] v3.0.0 - A escolha da stack - 05/08 - 01:38:26
 - [x] 1. Inserir o ícone no topo da aba do navegador
 - [x] 2. Refatorar o código da page-study e da page-header : criado o `header.css`
 - [x] 3. Construir a page-give-classes (dar aulas)
@@ -137,7 +137,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 ---- 
 
-- [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34 - meta 01:30:00 
+- [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34 - meta 01:30:00  
+- [ ] 1. Backe-End
+
 
 ---- 
 
