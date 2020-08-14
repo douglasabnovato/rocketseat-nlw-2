@@ -95,6 +95,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.3.5. Condições
 - [x] 4.3.6. Repetições
 
+---- 
+
 - [x] v2.0.0 - Olhando as Oportunidades - 04/08
 - [x] 1. A Home da Landing Page - css e html
 - [x] 1.1. A estilização da aplicação "Mobile First."
@@ -106,6 +108,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2.3. Estilizar os elementos da página 
 - [x] 2.4. Proposta do design: Proffy aplicando First Mobile
 - [x] 2.5. Corrigir layout - page proffy - barra de pesquisa 
+
+---- 
 
 - [ ] v3.0.0 - A escolha da stack - 05/08 - 01:38:26
 - [x] 1. Inserir o ícone no topo da aba do navegador
@@ -131,11 +135,15 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 4.3.1. Duplicar os campos
 - [ ] 4.3.2. Colocar na página
 
+---- 
+
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34
 
+---- 
 
 - [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41
 
+---- 
 
 - [ ] v6.0.0 - Desafio 
 - [ ] 1. Revisar o código
