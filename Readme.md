@@ -147,7 +147,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 - [ ] v6.0.0 - Desafio 
 - [ ] 1. Revisar o código
-- [ ] 1.2. Revisar o comentários
+- [ ] 1.2. Revisar os comentários
 - [ ] 1.3. Revisar o Readme.md
 - [ ] 2. Fazer o deploy da Aplicação
 - [ ] 3. Escrever um artigo no Medium com as tecnologias, o desafio, o aprendizado, as dificuldades desse projeto
