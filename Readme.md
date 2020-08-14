@@ -147,7 +147,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.1.5. Servidor do projeto: `server.js`
 - [x] 1.1.6. Comando `node src/server.js` roda nosso servidor na porta `http://127.0.0.1:5500/`
 - [x] 1.1.7. Nodemon: a cada alteração, restart o servidor automaticamente `npm install nodemon -D`
-- [ ] 1.1.8. Configurar o Nodemon  
+- [ ] 1.1.8. Configurar o Nodemon
+- [x] 1.1.8.1. No package.json >> script >> trocar o item inteiro test por dev : nodemon src/server.js
+- [x] 1.1.8.2. Rodar o servidor: `npm run dev`
 
 ---- 
 
