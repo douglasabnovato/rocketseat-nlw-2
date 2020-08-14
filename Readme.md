@@ -125,6 +125,11 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 3.7.1. Mobile First
 - [x] 3.7.2. Desktop 
 - [ ] 4. Construir o Javascript da Aplicação
+- [ ] 4.1. Procurar o botão
+- [ ] 4.2. Quando clicar no botão
+- [ ] 4.3. Executar uma ação
+- [ ] 4.3.1. Duplicar os campos
+- [ ] 4.3.2. Colocar na página
 
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08
 
