@@ -39,14 +39,14 @@ const express = require('express')
 const server = express()
 
 //configurar nunjucks
-const nunjucks = require('nunjucks')
-nunjucks.configure('src/views',{
+const nunkjucks = require('nunjucks')
+nunkjucks.configure('src/views', {
     express: server,
     noCache: true,
-}) 
+})
 
 server
-//configurar arquivos estáticos
+//configurar arquivos estáticos (css, scripts, imagens)
 .use(express.static("public"))
 //rotas da aplicação
 .get("/", pageLanding)

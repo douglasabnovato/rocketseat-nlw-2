@@ -155,7 +155,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2.1. HTTP
 - [x] 2.2. GET e Post
 - [x] 2.3. Localhost 
-- [ ] 2.4. nunjucks deu erro - 01:09:50
+- [x] 2.4. Instalar Nunjucks: `npm install nunjucks` para renderização das rotas
+- [x] 2.5. Configurar Nunjucks  
 
 ---- 
 
