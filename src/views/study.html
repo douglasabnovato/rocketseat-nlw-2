@@ -82,64 +82,33 @@
 
         </header>
 
-        <main>
+        <main> 
+            {%for proffy in proffys %}
+                <article class="teacher-item">
 
-            <h1>{{ title }}</h1>
+                    <header>
+                        <img 
+                            src="{{proffy.avatar}}" 
+                            alt="{{proffy.name}}">
+                        <div>
+                            <strong>{{proffy.name}}</strong>
+                            <span>{{proffy.subject}}</span>
+                        </div>
+                    </header>
 
-            <article class="teacher-item">
+                    <p>{{proffy.bio}}</p>
 
-                <header>
-                    <img 
-                        src="https://avatars2.githubusercontent.com/u/2254731?s=460&amp;u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&amp;v=4" 
-                        alt="Diego Fernandes">
-                    <div>
-                        <strong>Diego Fernandes</strong>
-                        <span>Química</span>
-                    </div>
-                </header>
+                    <footer>
+                        <p>
+                            Preço/Hora <strong>R${{proffy.cost}}</strong>
+                        </p>
+                        <button type="button">
+                            <img src="/images/icons/whatsapp.svg" alt="whatsapp">Entrar em contato
+                        </button>
+                    </footer>
 
-                <p>
-                    Entusiasta das melhores tecnologia de química avançada.<br><br>Apaixonado por explodir coisas no laboratório e por mudar a vida das pessoas através de experiências. Mais de 200.000 pessoas já passaram uma das minhas explosões.
-                </p>
-
-                <footer>
-                    <p>
-                        Preço/Hora <strong>R$</strong>
-                    </p>
-                    <button type="button">
-                        <img src="/images/icons/whatsapp.svg" alt="whatsapp">Entrar em contato
-                    </button>
-                </footer>
-
-            </article>
-
-            <article class="teacher-item">
-
-                <header>
-                    <img 
-                        src="https://avatars2.githubusercontent.com/u/2254731?s=460&amp;u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&amp;v=4" 
-                        alt="Diego Fernandes">
-                    <div>
-                        <strong>Diego Fernandes</strong>
-                        <span>Química</span>
-                    </div>
-                </header>
-
-                <p>
-                    Entusiasta das melhores tecnologia de química avançada.<br><br>Apaixonado por explodir coisas no laboratório e por mudar a vida das pessoas através de experiências. Mais de 200.000 pessoas já passaram uma das minhas explosões.
-                </p>
-
-                <footer>
-                    <p>
-                        Preço/Hora <strong>R$</strong>
-                    </p>
-                    <button type="button">
-                        <img src="/images/icons/whatsapp.svg" alt="whatsapp">Entrar em contato
-                    </button>
-                </footer>
-
-            </article>
-
+                </article> 
+            {%endfor%}
         </main>
 
     </div>

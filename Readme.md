@@ -138,7 +138,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ---- 
 
 - [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34 - meta 01:30:00  
-- [ ] 1. Backe-End
+- [x] 1. Backe-End
 - [x] 1.1. Criar o servidor
 - [x] 1.1.1. Nodejs: v12.18.3 (LTS) 
 - [x] 1.1.2. Estrutura de pastas: public, src
@@ -157,6 +157,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2.3. Localhost 
 - [x] 2.4. Instalar Nunjucks: `npm install nunjucks` para renderização das rotas
 - [x] 2.5. Configurar Nunjucks  
+- [ ] 3. Exibir as informações vindo do back-end
+- [ ] 3.1. Estrutura de repetição para exibir dados dos professores
+- [ ] 3.2. Estrutura de repetição com os dados dinâmicos
 
 ---- 
 
