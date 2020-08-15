@@ -160,6 +160,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 3. Exibir as informações vindo do back-end
 - [ ] 3.1. Estrutura de repetição para exibir dados dos professores
 - [ ] 3.2. Estrutura de repetição com os dados dinâmicos
+- [ ] 3.3. Botão que utiliza api do whatsapp para enviar mensagem de contato para agendar aula do respectivo professor 
 
 ---- 
 
