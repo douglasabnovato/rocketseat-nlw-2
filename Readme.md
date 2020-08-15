@@ -152,8 +152,10 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.1.8.2. Rodar o servidor: `npm run dev`
 - [x] 1.2. Criar as rotas da aplicação
 - [x] 1.2.1. Botões com as rotas 
-- [ ] 2.1. HTTP
-- [ ] 2.2. GET e Post
+- [x] 2.1. HTTP
+- [x] 2.2. GET e Post
+- [x] 2.3. Localhost 
+- [ ] 2.4. nunjucks deu erro - 01:09:50
 
 ---- 
 
