@@ -137,7 +137,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 ---- 
 
-- [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34 - meta 01:30:00  
+- [ ] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34   
 - [x] 1. Backe-End
 - [x] 1.1. Criar o servidor
 - [x] 1.1.1. Nodejs: v12.18.3 (LTS) 
@@ -158,13 +158,13 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2.4. Instalar Nunjucks: `npm install nunjucks` para renderização das rotas
 - [x] 2.5. Configurar Nunjucks  
 - [ ] 3. Exibir as informações vindo do back-end
-- [ ] 3.1. Estrutura de repetição para exibir dados dos professores
-- [ ] 3.2. Estrutura de repetição com os dados dinâmicos
-- [ ] 3.3. Botão que utiliza api do whatsapp para enviar mensagem de contato para agendar aula do respectivo professor 
+- [x] 3.1. Estrutura de repetição para exibir dados dos professores
+- [x] 3.2. Estrutura de repetição com os dados dinâmicos
+- [x] 3.3. Botão que utiliza api do whatsapp para enviar mensagem de contato para agendar aula do respectivo professor 
 
 ---- 
 
-- [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41 - meta 02:00:00
+- [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41 
 
 ---- 
 
