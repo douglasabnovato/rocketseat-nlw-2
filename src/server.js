@@ -59,7 +59,16 @@ function pageStudy(req, res){
 }
 
 function pageGiveClasses(req, res){
-    return res.render("give-classes.html", { subjects, weekdays })
+    const data = req.query
+    
+    //se tiver dados, adicionar dados a lista de proffys
+    const isNotEmpty = Object.keys(data).length > 0
+    if(isNotEmpty){
+        proffys.push(data)
+        return res.redirect("/study")
+    }
+    //se não tiver dados, mostrar a página
+    return res.render("give-classes.html", { subjects, weekdays })    
 }
 
 //Servidor
