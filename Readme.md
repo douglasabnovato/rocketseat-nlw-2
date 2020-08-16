@@ -175,7 +175,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.3.1. Estrutura de pastas e arquivos
 - [x] 1.3.2. Comandos SQL - criar tabelas - `node src/database/db.js` 
 - [x] 1.3.3. Plugin SQLite no VSCode - Open Database
-- [ ] 1.3.4. Teste - test.js
+- [ ] 1.3.4. Teste - test.js : inserir dados manualmente
+- [ ] 1.3.5. Organizando os dados para inserção
 
 ---- 
 
