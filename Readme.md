@@ -168,7 +168,10 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ---- 
 
 - [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41 
-- [ ] 1. Banco de Dados
+- [x] 1. Banco de Dados - SQLite
+- [x] 1.1. Instalar SQLite - `npm install sqlite-async`
+- [x] 1.2. Estrutura de pastas 
+- [ ] 1.3. Construir o banco de dados 
 
 ---- 
 
