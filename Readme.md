@@ -162,6 +162,13 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 3.2. Estrutura de repetição com os dados dinâmicos
 - [x] 3.3. Botão que utiliza api do whatsapp para enviar mensagem de contato para agendar aula do respectivo professor 
 - [x] 3.4. Dados dinâmicos no formulário entre o back-end e o front-end
+- [x] 4. Javascript
+- [x] 4.1. Variáveis 
+- [x] 4.2. Tipos de Dados 
+- [x] 4.3. Objetos
+- [x] 4.4. Funções 
+- [x] 4.5. Condições
+- [x] 4.6. Repetições 
 
 ---- 
 
