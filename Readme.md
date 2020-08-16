@@ -170,8 +170,12 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41 
 - [x] 1. Banco de Dados - SQLite
 - [x] 1.1. Instalar SQLite - `npm install sqlite-async`
-- [x] 1.2. Estrutura de pastas 
-- [ ] 1.3. Construir o banco de dados 
+- [x] 1.2. Estrutura de pastas - src/database/db.js e src/database/database.sqlite 
+- [x] 1.3. Construir o banco de dados 
+- [x] 1.3.1. Estrutura de pastas e arquivos
+- [x] 1.3.2. Comandos SQL - criar tabelas - `node src/database/db.js` 
+- [x] 1.3.3. Plugin SQLite no VSCode - Open Database
+- [ ] 1.3.4. Teste - test.js
 
 ---- 
 
