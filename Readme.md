@@ -3,16 +3,16 @@
 Um evento de programação organizado pelo Rocketseat para construir uma Page Landing seguindo um design apresentado no Figma.
 
 - Proposta do design: Home<br/>
-![Proffy](images/proposta-do-design-1.jpg)
+![Proffy](public/images/proposta-do-design-1.jpg)
 
 - Proposta do design: Proffy<br/>
-![Proffy](images/proposta-do-design-2.jpg)
+![Proffy](public/images/proposta-do-design-2.jpg)
 
 - Proposta do design: Informações do Prof<br/>
-![Proffy](images/proposta-do-design-3.jpg)
+![Proffy](public/images/proposta-do-design-3.jpg)
 
 - Proposta do design: Professores Disponíveis<br/>
-![Proffy](images/proposta-do-design-4.jpg)
+![Proffy](public/images/proposta-do-design-4.jpg)
 
 ## Desafios da NLW#2
 
