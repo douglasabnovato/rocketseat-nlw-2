@@ -183,6 +183,10 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2. Rodar o db - `node src/database/test.js` 
 - [x] 2.1. Construção das Query
 - [x] 2.2. Database : dados, testes, utilidades
+- [x] 3. Layout de Página Vazia no Study - no-results
+- [x] 4. Criar escotilha para URL
+- [x] 4.1. de GET para POST no formulário
+- [x] 4.2. Tipos de envio de dados: query, strings, body 
 
 ---- 
 

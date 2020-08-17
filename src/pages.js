@@ -11,7 +11,7 @@ function pageLanding(req, res){
     return res.render("index.html")
 }
 
-function pageStudy(req, res){
+async function pageStudy(req, res){
     const filters = req.query
     if(!filters.subject || !filters.weekday || !filters.time){
         return res.render("study.html", { filters, subjects, weekdays } )
@@ -34,27 +34,26 @@ function pageStudy(req, res){
     `    
     //erro na consulta do db
     try {
-        
+        const db = await Database
+        const proffys = await db.all(query)
+        return res.render('study.html', { proffys, subject, filters, weekdays })
     } catch (error) {
-        
+        console.log(error)
     }
 }
 
 function pageGiveClasses(req, res){
-    const data = req.query
-    //se tiver dados, adicionar dados a lista de proffys
-    const isNotEmpty = Object.keys(data).length > 0
-    if(isNotEmpty){
-        data.subject = getSubject[data.subject]
-        proffys.push(data)
-        return res.redirect("/study")
-    }
-    //se não tiver dados, mostrar a página
     return res.render("give-classes.html", { subjects, weekdays })    
+}
+
+function saveClasses(req, res){
+    const data = req.body
+    return res.redirect("/study")
 }
 
 module.exports = {
     pageLanding,
     pageStudy,
-    pageGiveClasses
+    pageGiveClasses,
+    saveClasses
 }
