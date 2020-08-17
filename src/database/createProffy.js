@@ -22,7 +22,7 @@ module.exports = async function(db, { proffyValue, classValue, classScheduleValu
                 subject,
                 cost,
                 proffy_id
-            ) VALUE (
+            ) VALUES (
                 "${classValue.subject}",
                 "${classValue.cost}",
                 "${proffy_id}"

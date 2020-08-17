@@ -180,6 +180,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.3.6. Em db, atenção aos momentos de espera: async await
 - [x] 1.3.7. Instrução map
 - [x] 1.3.8. Instrução promise
+- [ ] 2. Rodar o db - `node src/database/test.js` 
 
 ---- 
 
