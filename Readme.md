@@ -182,6 +182,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.3.8. Instrução promise
 - [x] 2. Rodar o db - `node src/database/test.js` 
 - [x] 2.1. Construção das Query
+- [x] 2.2. Database : dados, testes, utilidades
 
 ---- 
 
