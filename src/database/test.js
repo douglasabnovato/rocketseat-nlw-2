@@ -45,7 +45,8 @@ Database.then(async (db) => {
         JOIN classes ON (classes.proffy_id = proffys.id)
         WHERE classes.proffy_id = 1;
     `)
-    console.log(selectClassesAndProffys)
+    
+    //console.log(selectClassesAndProffys)
 
     // o horário que a pessoa trabalha, por exemplo, é das 8h - 18h
     // o horário do time_from (8hr) precisa ser menor ou igual ao horário solicitado
@@ -53,7 +54,7 @@ Database.then(async (db) => {
     const selectClassesSchedules = await db.all(`
         SELECT class_schedule.*
         FROM class_schedule
-        WHERE class_schedule.class.id = 1
+        WHERE class_schedule.class_id = 1
     `)
 
     console.log(selectClassesSchedules)
