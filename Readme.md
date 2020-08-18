@@ -190,6 +190,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 5. Aplicação
 - [x] 5.1. Corrigir detalhes de funcionamento 
 
+
 ---- 
 
 - [ ] v6.0.0 - Terminado 

@@ -30,7 +30,7 @@ Database.then(async (db) => {
         }
     ]
 
-    //await createProffy(db, { proffyValue, classValue, classScheduleValues })
+    await createProffy(db, { proffyValue, classValue, classScheduleValues })
 
     //consultar os dados inseridos
 
@@ -44,8 +44,7 @@ Database.then(async (db) => {
         FROM proffys
         JOIN classes ON (classes.proffy_id = proffys.id)
         WHERE classes.proffy_id = 1;
-    `)
-    
+    `)    
     //console.log(selectClassesAndProffys)
 
     // o horário que a pessoa trabalha, por exemplo, é das 8h - 18h
@@ -60,6 +59,6 @@ Database.then(async (db) => {
         AND class_schedule.time_to > "520"
     `)
 
-    console.log(selectClassesSchedules)
+    //console.log(selectClassesSchedules)
 
 })
