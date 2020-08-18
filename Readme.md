@@ -167,7 +167,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 ---- 
 
-- [ ] v5.0.0 - A milha extra - 07/08 - 02:48:41 
+- [x] v5.0.0 - A milha extra - 07/08 - 02:48:41 
 - [x] 1. Banco de Dados - SQLite
 - [x] 1.1. Instalar SQLite - `npm install sqlite-async`
 - [x] 1.2. Estrutura de pastas - src/database/db.js e src/database/database.sqlite 
@@ -187,7 +187,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4. Criar escotilha para URL
 - [x] 4.1. de GET para POST no formulário
 - [x] 4.2. Tipos de envio de dados: query, strings, body 
-- [ ] 5. Aplicação - Funcionamento
+- [x] 5. Aplicação - Funcionamento
 
 ---- 
 
