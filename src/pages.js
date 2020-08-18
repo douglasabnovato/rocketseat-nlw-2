@@ -5,7 +5,7 @@ const {
     weekdays,
     getSubject,
     convertHoursToMinutes
- } = require("./utils/format")
+ } = require('./utils/format')
 
 function pageLanding(req, res){
     return res.render("index.html")
@@ -39,7 +39,7 @@ async function pageStudy(req, res){
         proffys.map((proffy) => {
             proffy.subject = getSubject(proffy.subject)
         })
-        return res.render('study.html', { proffys, subject, filters, weekdays })
+        return res.render('study.html', { proffys, subjects, filters, weekdays })
     } catch (error) {
         console.log(error)
     }

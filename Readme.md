@@ -187,7 +187,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4. Criar escotilha para URL
 - [x] 4.1. de GET para POST no formulário
 - [x] 4.2. Tipos de envio de dados: query, strings, body 
-- [x] 5. Aplicação - Funcionamento
+- [x] 5. Aplicação
+- [x] 5.1. Corrigir detalhes de funcionamento 
 
 ---- 
 
@@ -208,7 +209,6 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ---- 
 
 - [ ] v8.0.0 - Desafio
-
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Rocketseat - Next Level Week 2 - Discovery](https://nextlevelweek.com/inscricao/2)
