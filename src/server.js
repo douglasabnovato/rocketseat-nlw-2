@@ -26,6 +26,6 @@ server
 .get("/", pageLanding)
 .get("/study", pageStudy)
 .get("/give-classes", pageGiveClasses)
-.post("/save-class", saveClasses)
+.post("/save-classes", saveClasses)
 //start do servidor
 .listen(5500)
