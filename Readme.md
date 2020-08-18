@@ -191,7 +191,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 ---- 
 
-- [ ] v6.0.0 - Desafio 
+- [ ] v6.0.0 - Terminado 
 - [ ] 1. Revisar o código
 - [ ] 1.2. Revisar os comentários
 - [ ] 1.3. Revisar o Readme.md
@@ -204,6 +204,11 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] v7.0.0 - Encerramento
 - [ ] 1. Live no Youtube - Encerramento NLW #2
 - [ ] 2. Método de Aprendizado: Prática, Foco, Grupo 
+
+---- 
+
+- [ ] v8.0.0 - Desafio
+
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Rocketseat - Next Level Week 2 - Discovery](https://nextlevelweek.com/inscricao/2)
