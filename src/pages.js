@@ -46,9 +46,33 @@ function pageGiveClasses(req, res){
     return res.render("give-classes.html", { subjects, weekdays })    
 }
 
-function saveClasses(req, res){
-    const data = req.body
-    return res.redirect("/study")
+async function saveClasses(req, res){
+    const createProffy = require('./database/createProffy')
+    const proffyValue = {
+        name: req.body.name,
+        avatar: req.body.avatar,
+        whatsapp: req.body.whatsapp,
+        bio: req.body.bio
+    }
+    const classValue = {
+        subject: req.body.subject,
+        cost: req.body.cost
+    }
+    const classScheduleValues = req.body.weekday.map((weekday, index) => {        
+        return {
+            weekday,
+            time_from: convertHoursToMinutes(req.body.time_from[index]),
+            time_to: convertHoursToMinutes(req.body.time_to[index])
+        }
+    })
+    
+    try {
+        const db = await Database
+        await createProffy(db, { proffyValue, classValue, classScheduleValues })
+        return res.redirect("/study")
+    } catch (error) {
+        console.log(error) 
+    }
 }
 
 module.exports = {

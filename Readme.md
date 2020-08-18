@@ -188,6 +188,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.1. de GET para POST no formulário
 - [x] 4.2. Tipos de envio de dados: query, strings, body 
 
+parei em 02:21:35
+
 ---- 
 
 - [ ] v6.0.0 - Desafio 
