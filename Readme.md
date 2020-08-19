@@ -282,6 +282,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ---- 
 
 - [ ] v6.0.0 - Terminado 
+
 - [ ] 1. Revisar o código
 - [ ] 1.2. Revisar os comentários
 - [ ] 1.3. Revisar o Readme.md
@@ -292,12 +293,14 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ---- 
 
 - [ ] v7.0.0 - Encerramento
+
 - [ ] 1. Live no Youtube - Encerramento NLW #2
 - [ ] 2. Método de Aprendizado: Prática, Foco, Grupo 
 
 ---- 
 
 - [ ] v8.0.0 - Desafios
+
 - [ ] 1. Página de sucesso
 - [ ] 1.1. Mostrar página de sucesso após o cadastro do proffy
 - [ ] 1.2. aguardar 2 segundos na página e redirecionar para a listagem dos proffys, com filtro
@@ -307,6 +310,8 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [ ] 2. Correção de bugs
 - [ ] 2.1. Não permitir o usuário colocar um novo campo de dia e horário, se o dia e hora anterior estiver vazio
 - [ ] 2.2. Funcionalidade de deletar um campo de dia e hora
+
+---- 
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Rocketseat - Next Level Week 2 - Discovery](https://nextlevelweek.com/inscricao/2)
