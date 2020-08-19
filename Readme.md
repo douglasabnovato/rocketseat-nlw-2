@@ -17,15 +17,13 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ## Desafios da NLW#2
 
 - [x] v1.0.0 - Acelerando sua Evolução - 03/08
-
-- [x] 0. Pilares do método do aprendizado
+- [x] 0. Rocketseat
+- [x] 0.1. Pilares do método do aprendizado
 <br/>Prática: o evento reune um conteúdo com clareza e atividades práticas, codando.
 <br/>Foco: Concentrar os esforços de estudos na mesma tecnologia, fazendo com que vamos ao próximo nível, ao invés de sair atirando para todos os lados, atrás da mais nova linguagem ou framework.
 <br/>Grupo: interação na comunidade com outros programadores mais experientes para receber ajuda. E também, com outros programadores que você pode ajudar. Completando o ciclo perfeito de aprendizado.
 
-- [x] 0.1. O design web construído no Figma da [aplicação Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
-
-- [x] 0.2. Os arquivos do projeto em desenvolvimento
+- [x] 0.2. O design web construído no Figma da [aplicação Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
 
 - [x] 1. Front-End ( [Notion](https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2) )
 - [x] 1.1. Programação Web
@@ -52,48 +50,52 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.3.3.3. Javascript
 - [x] 1.3.4. Tecnologias do Back-End
 
-- [x] 4. Introdução às Tecnologias
-- [x] 4.1. HTML
-- [x] 4.1.1. TAGs
-- [x] 4.1.1.1. head 
-- [x] 4.1.1.1.1. meta
-- [x] 4.1.1.1.2. title
-- [x] 4.1.1.1.3. link
-- [x] 4.1.1.1.4. style
-- [x] 4.1.1.2. body 
-- [x] 4.1.1.2.1. div
-- [x] 4.1.1.2.2. h1
-- [x] 4.1.1.2.3. p
-- [x] 4.1.1.2.4. a
-- [x] 4.1.1.2.5. img
-- [x] 4.2. CSS
-- [x] 4.2.1. Responsivo
-- [x] 4.2.1.1. Mobile First
-- [x] 4.2.1.2. Unidades de Medida: rem, em
-- [x] 4.2.2. Box-Model
-- [x] 4.2.2.1. Tamanho de Conteúdo: width, height
-- [x] 4.2.2.2. Preenchimentos
-- [x] 4.2.2.3. Bordas
-- [x] 4.2.2.4. Espaçamentos
-- [x] 4.2.2.5. Displays
-- [x] 4.2.2.6. Cores: fundo, fontes, sombrar, opacidade
-- [x] 4.2.3. Layout
-- [x] 4.2.3.1. Posicionamentos
-- [x] 4.2.3.1.1. Displays
-- [x] 4.2.3.1.2. Position: relative, absolute
-- [x] 4.2.3.2. Alinhamentos 
-- [x] 4.2.4. Texto
-- [x] 4.2.4.1. Tamanho
-- [x] 4.2.4.2. Tipo
-- [x] 4.2.4.3. Espaçamentos
-- [x] 4.2.4.4. Alinhamentos
-- [x] 4.3. Javascript
-- [x] 4.3.1. Variáveis
-- [x] 4.3.2. Tipos de Dados
-- [x] 4.3.3. Objetos
-- [x] 4.3.4. Funções
-- [x] 4.3.5. Condições
-- [x] 4.3.6. Repetições
+- [x] 2. Projeto
+- [x] 2.1. Layout da aplicação, construído no Figma: [aplicação Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
+- [x] 2.2. Arquivos que compõem a aplicação
+
+- [x] 3. Introdução às Tecnologias
+- [x] 3.1. HTML
+- [x] 3.1.1. TAGs
+- [x] 3.1.1.1. head 
+- [x] 3.1.1.1.1. meta
+- [x] 3.1.1.1.2. title
+- [x] 3.1.1.1.3. link
+- [x] 3.1.1.1.4. style
+- [x] 3.1.1.2. body 
+- [x] 3.1.1.2.1. div
+- [x] 3.1.1.2.2. h1
+- [x] 3.1.1.2.3. p
+- [x] 3.1.1.2.4. a
+- [x] 3.1.1.2.5. img
+- [x] 3.2. CSS
+- [x] 3.2.1. Responsivo
+- [x] 3.2.1.1. Mobile First
+- [x] 3.2.1.2. Unidades de Medida: rem, em
+- [x] 3.2.2. Box-Model
+- [x] 3.2.2.1. Tamanho de Conteúdo: width, height
+- [x] 3.2.2.2. Preenchimentos
+- [x] 3.2.2.3. Bordas
+- [x] 3.2.2.4. Espaçamentos
+- [x] 3.2.2.5. Displays
+- [x] 3.2.2.6. Cores: fundo, fontes, sombrar, opacidade
+- [x] 3.2.3. Layout
+- [x] 3.2.3.1. Posicionamentos
+- [x] 3.2.3.1.1. Displays
+- [x] 3.2.3.1.2. Position: relative, absolute
+- [x] 3.2.3.2. Alinhamentos 
+- [x] 3.2.4. Texto
+- [x] 3.2.4.1. Tamanho
+- [x] 3.2.4.2. Tipo
+- [x] 3.2.4.3. Espaçamentos
+- [x] 3.2.4.4. Alinhamentos
+- [x] 3.3. Javascript
+- [x] 3.3.1. Variáveis
+- [x] 3.3.2. Tipos de Dados
+- [x] 3.3.3. Objetos
+- [x] 3.3.4. Funções
+- [x] 3.3.5. Condições
+- [x] 3.3.6. Repetições
 
 ---- 
 
