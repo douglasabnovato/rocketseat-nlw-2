@@ -220,28 +220,64 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ---- 
 
 - [x] v5.0.0 - A milha extra - 07/08 - 02:48:41 
-- [x] 1. Banco de Dados - SQLite
-- [x] 1.1. Instalar SQLite - `npm install sqlite-async`
-- [x] 1.2. Estrutura de pastas - src/database/db.js e src/database/database.sqlite 
-- [x] 1.3. Construir o banco de dados 
-- [x] 1.3.1. Estrutura de pastas e arquivos
-- [x] 1.3.2. Comandos SQL - criar tabelas - `node src/database/db.js` 
-- [x] 1.3.3. Plugin SQLite no VSCode - Open Database
-- [x] 1.3.4. Teste - test.js : inserir dados manualmente
-- [x] 1.3.5. Organizando os dados para inserção 
-- [x] 1.3.6. Em db, atenção aos momentos de espera: async await
-- [x] 1.3.7. Instrução map
-- [x] 1.3.8. Instrução promise
-- [x] 2. Rodar o db - `node src/database/test.js` 
-- [x] 2.1. Construção das Query
-- [x] 2.2. Database : dados, testes, utilidades
-- [x] 3. Layout de Página Vazia no Study - no-results
-- [x] 4. Criar escotilha para URL
-- [x] 4.1. de GET para POST no formulário
-- [x] 4.2. Tipos de envio de dados: query, strings, body 
-- [x] 5. Aplicação
-- [x] 5.1. Corrigir detalhes de funcionamento 
 
+- [x] 0. Banco de Dados 
+- [x] 0.1. Instalar SQLite - `npm install sqlite-async`
+- [x] 0.2. Estrutura de pastas - src/database/db.js e src/database/database.sqlite 
+- [x] 0.3. Construir o banco de dados 
+- [x] 0.3.1. Estrutura de pastas e arquivos
+- [x] 0.3.2. Comandos SQL - criar tabelas - `node src/database/db.js` 
+- [x] 0.3.3. Plugin SQLite no VSCode - Open Database
+- [x] 0.3.4. Teste - test.js : inserir dados manualmente
+- [x] 0.3.5. Organizando os dados para inserção 
+- [x] 0.3.6. Em db, atenção aos momentos de espera: async await
+- [x] 0.3.7. Instrução map
+- [x] 0.3.8. Instrução promise
+- [x] 0.4. Rodar o db - `node src/database/test.js` 
+- [x] 0.4.1. Construção das Query
+- [x] 0.4.2. Database : dados, testes, utilidades
+- [x] 0.5. Layout de Página Vazia no Study - no-results
+- [x] 0.6. Criar escotilha para URL
+- [x] 0.7.1. de GET para POST no formulário
+- [x] 0.7.2. Tipos de envio de dados: query, strings, body 
+- [x] 0.8. Aplicação
+- [x] 0.8.1. Corrigir detalhes de funcionamento 
+
+- [x] 1. Banco de Dados - SQLite
+- [x] 1.1. Dados não devem ficar na aplicação 
+- [x] 1.1.1. Perder/Corromper
+- [x] 1.1.2. Segurança
+- [x] 1.1.3. Responsabilidades
+
+- [x] 1.2. SQL 
+- [x] 1.2.1. Structured Query Language
+- [x] 1.2.2. Linguagem para
+- [x] 1.2.2.1. Criar
+- [x] 1.2.2.2. Consultar
+- [x] 1.2.2.3. Atualizar
+- [x] 1.2.2.4. Deletar
+- [x] 1.2.2.5. Mais...
+- [x] 1.2.3. Tabelas - Entidades - Relações:
+- [x] 1.2.3.1. Colunas e linhas  
+
+- [x] 1.3. Tecnologia Utilizada
+- [x] 1.3.1. [SQLite](https://www.sqlite.org/index.html)
+- [x] 1.3.2. Open-source e fácil de configurar
+- [x] 1.3.3. Banco de dados que reside na própria aplicação
+- [x] 1.3.4. Excelente para quem está começando no mundo SQL
+
+- [x] 2. Bora Codar!
+- [x] 2.1. Instalar o `sqlite-async`
+- [x] 2.2. Criar arquivo de configuração do banco de dados `db.js`
+- [x] 2.3. Criar o objeto que irá fazer operações no banco de dados
+- [x] 2.4. Operações
+- [x] 2.4.1. Criar tabela no banco de dados
+- [x] 2.4.2. Inserir um dado na tabela
+- [x] 2.4.3. Consultar um dado na tabela
+- [x] 2.4.4. Apagar um dado da tabela
+- [x] 2.5. Exportar o objeto para ser usado em outro local
+- [x] 2.6. Importar o banco de dados no server.js 
+- [x] 2.7. Utilizar o banco de dados nas rotas
 
 ---- 
 
@@ -261,7 +297,16 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 
 ---- 
 
-- [ ] v8.0.0 - Desafio
+- [ ] v8.0.0 - Desafios
+- [ ] 1. Página de sucesso
+- [ ] 1.1. Mostrar página de sucesso após o cadastro do proffy
+- [ ] 1.2. aguardar 2 segundos na página e redirecionar para a listagem dos proffys, com filtro
+- [ ] 1.2.1. use setTimeout para aguardar os 2 segundos
+- [ ] 1.2.2. location.href = ""
+
+- [ ] 2. Correção de bugs
+- [ ] 2.1. Não permitir o usuário colocar um novo campo de dia e horário, se o dia e hora anterior estiver vazio
+- [ ] 2.2. Funcionalidade de deletar um campo de dia e hora
 
 .: Por [Douglas A B Novato - @douglasabnovato](https://linktr.ee/douglasabnovato)<br/>
 . De [Rocketseat - Next Level Week 2 - Discovery](https://nextlevelweek.com/inscricao/2)
