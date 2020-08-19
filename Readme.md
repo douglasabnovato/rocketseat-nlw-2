@@ -17,15 +17,14 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ## Desafios da NLW#2
 
 - [x] v1.0.0 - Acelerando sua Evolução - 03/08
+
 - [x] 0. Rocketseat
 - [x] 0.1. Pilares do método do aprendizado
 <br/>Prática: o evento reune um conteúdo com clareza e atividades práticas, codando.
 <br/>Foco: Concentrar os esforços de estudos na mesma tecnologia, fazendo com que vamos ao próximo nível, ao invés de sair atirando para todos os lados, atrás da mais nova linguagem ou framework.
-<br/>Grupo: interação na comunidade com outros programadores mais experientes para receber ajuda. E também, com outros programadores que você pode ajudar. Completando o ciclo perfeito de aprendizado.
+<br/>Grupo: interação na comunidade com outros programadores mais experientes para receber ajuda. E também, com outros programadores que você pode ajudar. Para isso, a ferramenta Discord dentro da comunidade aberta da Rocketseat é uma ótima opção para colocar isso em prática. Completando o ciclo perfeito de aprendizado. Destaca o networking, e para isso, utilizar o Linkedin e o Github para aparecer para outros profissionais, recrutadores e empresas.
 
-- [x] 0.2. O design web construído no Figma da [aplicação Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
-
-- [x] 1. Front-End ( [Notion](https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2) )
+- [x] 1. Front-End
 - [x] 1.1. Programação Web
 - [x] 1.1.1. O que é Programação
 - [x] 1.1.1.1. Ensinar Computador 
@@ -100,16 +99,62 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ---- 
 
 - [x] v2.0.0 - Olhando as Oportunidades - 04/08
-- [x] 1. A Home da Landing Page - css e html
-- [x] 1.1. A estilização da aplicação "Mobile First."
-- [x] 1.2. A estilização da aplicação "Desktop".
-- [x] 1.3. A estilização da aplicação "Tablet".
-- [x] 2. A Proffy da Landing Page - css e html
-- [x] 2.1. Entender os elementos que estão no design
-- [x] 2.2. Colocar os elementos da página
-- [x] 2.3. Estilizar os elementos da página 
-- [x] 2.4. Proposta do design: Proffy aplicando First Mobile
-- [x] 2.5. Corrigir layout - page proffy - barra de pesquisa 
+
+- [x] 0. A Home da Landing Page - css e html
+- [x] 0.1.1. A estilização da aplicação "Mobile First."
+- [x] 0.1.2. A estilização da aplicação "Desktop".
+- [x] 0.1.3. A estilização da aplicação "Tablet".
+- [x] 0.2. A Proffy da Landing Page - css e html
+- [x] 0.2.1 Entender os elementos que estão no design
+- [x] 0.2.2. Colocar os elementos da página
+- [x] 0.2.3. Estilizar os elementos da página 
+- [x] 0.2.4. Proposta do design: Proffy aplicando First Mobile
+- [x] 0.2.5. Corrigir layout - page proffy - barra de pesquisa 
+
+- [x] 1. Responsabilidades
+- [x] 1.1. Receber pedidos do cliente
+- [x] 1.2. Preparar os pedidos ( Regras de Negócio )
+- [x] 1.3. Enviar respostas
+- [x] 1.4. Lidar com dados da aplicação
+
+- [x] 2. Tecnologias
+- [x] 2.1. Linguagem: **[Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)**
+- [x] 2.2. Node.js ([https://nodejs.org](https://nodejs.org/en/))
+- [x] 2.3. Git Bash ([https://gitforwindows.org](https://gitforwindows.org/))
+- [x] 2.4. [Banco de dados SQL](https://en.wikipedia.org/wiki/SQL)
+- [x] 2.5. SQLite
+
+- [x] 3. Bora Codar!
+- [x] 3.1. Estrutura de pastas do projeto
+- [x] 3.2. Criação do servidor
+- [x] 3.2.1. Instalação dos módulos
+- [x] 3.2.2. Configuração do servidor
+- [x] 3.2.2.1. Criar e iniciar
+- [x] 3.2.2.2. Página inicial
+- [x] 3.2.2.3. Arquivos estáticos
+- [x] 3.2.3. Rotas da aplicação
+- [x] 3.2.3.1. Requisição e Resposta
+- [x] 3.2.3.2. O que são verbos HTTP
+- [x] 3.2.3.3. GET e POST
+- [x] 3.2.3.4. Tipos de envio de dados
+- [x] 3.2.3.4.1. Query Strings / Body
+- [x] 3.2.3.4.2. Habilitar o express para utilizar o `req.body`
+- [x] 3.2.4. Template Engine
+- [x] 3.2.4.1. Instalar e configurar `nunjucks`
+- [x] 3.2.4.2. Renderizar
+- [x] 3.2.4.3. Enviar dados para o html
+- [x] 3.2.4.4. Usando Nunjucks
+- [x] 3.2.4.4.1. include
+- [x] 3.2.4.4.2. variables
+- [x] 3.2.4.4.3. extends
+- [x] 3.2.4.4.4. block
+- [x] 3.2.4.4.5. if
+- [x] 3.2.4.4.6. for
+- [x] 3.2.4.5. Instalar extensão `nunjucks-template` nas extensões VSCode
+- [x] 3.2.5. Dados
+- [x] 3.2.5.1. Enviando dados
+- [x] 3.2.5.2. Recebendo dados
+- [x] 3.2.5.3. Persistindo ( guardando ) banco de dados 
 
 ---- 
 
