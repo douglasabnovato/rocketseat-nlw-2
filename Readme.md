@@ -17,10 +17,16 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 ## Desafios da NLW#2
 
 - [x] v1.0.0 - Acelerando sua Evolução - 03/08
+
 - [x] 0. Pilares do método do aprendizado
 <br/>Prática: o evento reune um conteúdo com clareza e atividades práticas, codando.
 <br/>Foco: Concentrar os esforços de estudos na mesma tecnologia, fazendo com que vamos ao próximo nível, ao invés de sair atirando para todos os lados, atrás da mais nova linguagem ou framework.
 <br/>Grupo: interação na comunidade com outros programadores mais experientes para receber ajuda. E também, com outros programadores que você pode ajudar. Completando o ciclo perfeito de aprendizado.
+
+- [x] 0.1. O design web construído no Figma da [aplicação Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
+
+- [x] 0.2. Os arquivos do projeto em desenvolvimento
+
 - [x] 1. Front-End ( [Notion](https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2) )
 - [x] 1.1. Programação Web
 - [x] 1.1.1. O que é Programação
@@ -45,8 +51,7 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.3.3.2. CSS
 - [x] 1.3.3.3. Javascript
 - [x] 1.3.4. Tecnologias do Back-End
-- [x] 2. O design web construído no Figma da [aplicação Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
-- [x] 3. Os arquivos do projeto em desenvolvimento
+
 - [x] 4. Introdução às Tecnologias
 - [x] 4.1. HTML
 - [x] 4.1.1. TAGs
