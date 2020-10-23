@@ -1,6 +1,8 @@
-## Next Level Week 2
+### Next Level Week 2
 
 Um evento de programação organizado pelo Rocketseat para construir uma Page Landing seguindo um design apresentado no Figma.
+
+### Proffy
 
 - Proposta do design: Home<br/>
 ![Proffy](public/images/proposta-do-design-1.jpg)
@@ -14,15 +16,16 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - Proposta do design: Professores Disponíveis<br/>
 ![Proffy](public/images/proposta-do-design-4.jpg)
 
-## Desafios da NLW#2
+#### Metodologia
 
-- [x] v1.0.0 - Acelerando sua Evolução - 03/08
-
+- [x] v1.0.0 - Acelerando sua Evolução 
 - [x] 0. Rocketseat
 - [x] 0.1. Pilares do método do aprendizado
-<br/>Prática: o evento reune um conteúdo com clareza e atividades práticas, codando.
-<br/>Foco: Concentrar os esforços de estudos na mesma tecnologia, fazendo com que vamos ao próximo nível, ao invés de sair atirando para todos os lados, atrás da mais nova linguagem ou framework.
-<br/>Grupo: interação na comunidade com outros programadores mais experientes para receber ajuda. E também, com outros programadores que você pode ajudar. Para isso, a ferramenta Discord dentro da comunidade aberta da Rocketseat é uma ótima opção para colocar isso em prática. Completando o ciclo perfeito de aprendizado. Destaca o networking, e para isso, utilizar o Linkedin e o Github para aparecer para outros profissionais, recrutadores e empresas.
+- [x] 0.1.1. Prática: o evento reune um conteúdo com clareza e atividades práticas, codando.
+- [x] 0.1.2. Foco: Concentrar os esforços de estudos na mesma tecnologia, fazendo com que vamos ao próximo nível, ao invés de sair atirando para todos os lados, atrás da mais nova linguagem ou framework.
+- [x] 0.1.3. Grupo: interação na comunidade com outros programadores mais experientes para receber ajuda. E também, com outros programadores que você pode ajudar. Para isso, a ferramenta Discord dentro da comunidade aberta da Rocketseat é uma ótima opção para colocar isso em prática. Completando o ciclo perfeito de aprendizado. Destaca o networking, e para isso, utilizar o Linkedin e o Github para aparecer para outros profissionais, recrutadores e empresas.
+
+#### Front-End
 
 - [x] 1. Front-End
 - [x] 1.1. Programação Web
@@ -47,12 +50,10 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.3.3.1. HTML
 - [x] 1.3.3.2. CSS
 - [x] 1.3.3.3. Javascript
-- [x] 1.3.4. Tecnologias do Back-End
-
+- [x] 1.3.4. Tecnologias do Back-End 
 - [x] 2. Projeto
 - [x] 2.1. Layout da aplicação, construído no Figma: [aplicação Proffy](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)
 - [x] 2.2. Arquivos que compõem a aplicação
-
 - [x] 3. Introdução às Tecnologias
 - [x] 3.1. HTML
 - [x] 3.1.1. TAGs
@@ -96,10 +97,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 3.3.5. Condições
 - [x] 3.3.6. Repetições
 
----- 
+#### Back-End
 
-- [x] v2.0.0 - Olhando as Oportunidades - 04/08
-
+- [x] v2.0.0 - Olhando as Oportunidades 
 - [x] 0. A Home da Landing Page - css e html
 - [x] 0.1.1. A estilização da aplicação "Mobile First."
 - [x] 0.1.2. A estilização da aplicação "Desktop".
@@ -110,20 +110,17 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 0.2.3. Estilizar os elementos da página 
 - [x] 0.2.4. Proposta do design: Proffy aplicando First Mobile
 - [x] 0.2.5. Corrigir layout - page proffy - barra de pesquisa 
-
 - [x] 1. Responsabilidades
 - [x] 1.1. Receber pedidos do cliente
 - [x] 1.2. Preparar os pedidos ( Regras de Negócio )
 - [x] 1.3. Enviar respostas
 - [x] 1.4. Lidar com dados da aplicação
-
 - [x] 2. Tecnologias
 - [x] 2.1. Linguagem: **[Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)**
 - [x] 2.2. Node.js ([https://nodejs.org](https://nodejs.org/en/))
 - [x] 2.3. Git Bash ([https://gitforwindows.org](https://gitforwindows.org/))
 - [x] 2.4. [Banco de dados SQL](https://en.wikipedia.org/wiki/SQL)
 - [x] 2.5. SQLite
-
 - [x] 3. Bora Codar!
 - [x] 3.1. Estrutura de pastas do projeto
 - [x] 3.2. Criação do servidor
@@ -156,9 +153,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 3.2.5.2. Recebendo dados
 - [x] 3.2.5.3. Persistindo ( guardando ) banco de dados 
 
----- 
+#### Front-End
 
-- [x] v3.0.0 - A escolha da stack - 05/08 - 01:38:26
+- [x] v3.0.0 - A escolha da stack 
 - [x] 1. Inserir o ícone no topo da aba do navegador
 - [x] 2. Refatorar o código da page-study e da page-header : criado o `header.css`
 - [x] 3. Construir a page-give-classes (dar aulas)
@@ -182,9 +179,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.3.1. Duplicar os campos
 - [x] 4.3.2. Colocar na página 
 
----- 
+#### Backe-End
 
-- [x] v4.0.0 - Até dois anos em dois meses - 06/08 - 02:06:34   
+- [x] v4.0.0 - Até dois anos em dois meses    
 - [x] 1. Backe-End
 - [x] 1.1. Criar o servidor
 - [x] 1.1.1. Nodejs: v12.18.3 (LTS) 
@@ -217,10 +214,9 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 4.5. Condições
 - [x] 4.6. Repetições 
 
----- 
+#### Banco de Dados 
 
 - [x] v5.0.0 - A milha extra - 07/08 - 02:48:41 
-
 - [x] 0. Banco de Dados 
 - [x] 0.1. Instalar SQLite - `npm install sqlite-async`
 - [x] 0.2. Estrutura de pastas - src/database/db.js e src/database/database.sqlite 
@@ -242,13 +238,11 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 0.7.2. Tipos de envio de dados: query, strings, body 
 - [x] 0.8. Aplicação
 - [x] 0.8.1. Corrigir detalhes de funcionamento 
-
 - [x] 1. Banco de Dados - SQLite
 - [x] 1.1. Dados não devem ficar na aplicação 
 - [x] 1.1.1. Perder/Corromper
 - [x] 1.1.2. Segurança
 - [x] 1.1.3. Responsabilidades
-
 - [x] 1.2. SQL 
 - [x] 1.2.1. Structured Query Language
 - [x] 1.2.2. Linguagem para
@@ -259,13 +253,11 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 1.2.2.5. Mais...
 - [x] 1.2.3. Tabelas - Entidades - Relações:
 - [x] 1.2.3.1. Colunas e linhas  
-
 - [x] 1.3. Tecnologia Utilizada
 - [x] 1.3.1. [SQLite](https://www.sqlite.org/index.html)
 - [x] 1.3.2. Open-source e fácil de configurar
 - [x] 1.3.3. Banco de dados que reside na própria aplicação
 - [x] 1.3.4. Excelente para quem está começando no mundo SQL
-
 - [x] 2. Bora Codar!
 - [x] 2.1. Instalar o `sqlite-async`
 - [x] 2.2. Criar arquivo de configuração do banco de dados `db.js`
@@ -279,34 +271,26 @@ Um evento de programação organizado pelo Rocketseat para construir uma Page La
 - [x] 2.6. Importar o banco de dados no server.js 
 - [x] 2.7. Utilizar o banco de dados nas rotas
 
----- 
+#### Encerramento 
 
 - [ ] v6.0.0 - Terminado 
-
 - [ ] 1. Revisar o código
 - [ ] 1.2. Revisar os comentários
 - [ ] 1.3. Revisar o Readme.md
 - [ ] 2. Fazer o deploy da Aplicação
 - [ ] 3. Escrever um artigo no Medium com as tecnologias, o desafio, o aprendizado, as dificuldades desse projeto
-- [ ] 4. Publicar no Linkedin
+- [ ] 4. Publicar no Linkedin 
+- [ ] 5. Live no Youtube - Encerramento NLW #2
+- [ ] 6. Método de Aprendizado: Prática, Foco, Grupo 
 
----- 
+#### Evoluir a aplicação
 
-- [ ] v7.0.0 - Encerramento
-
-- [ ] 1. Live no Youtube - Encerramento NLW #2
-- [ ] 2. Método de Aprendizado: Prática, Foco, Grupo 
-
----- 
-
-- [ ] v8.0.0 - Desafios
-
+- [ ] v7.0.0 - Desafios
 - [ ] 1. Página de sucesso
 - [ ] 1.1. Mostrar página de sucesso após o cadastro do proffy
 - [ ] 1.2. aguardar 2 segundos na página e redirecionar para a listagem dos proffys, com filtro
 - [ ] 1.2.1. use setTimeout para aguardar os 2 segundos
 - [ ] 1.2.2. location.href = ""
-
 - [ ] 2. Correção de bugs
 - [ ] 2.1. Não permitir o usuário colocar um novo campo de dia e horário, se o dia e hora anterior estiver vazio
 - [ ] 2.2. Funcionalidade de deletar um campo de dia e hora
